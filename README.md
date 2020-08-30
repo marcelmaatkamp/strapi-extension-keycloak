@@ -20,7 +20,10 @@ $ docker-compose up -d keycloak
 ```
 Goto http://localhost:8080
 
-![login](docs/images/keycloak.png)
+![keycloak_login](docs/images/keycloak_login.png)
+![keycloak_create](docs/images/keycloak_clientid_create.png)
+![keycloak_clientid](docs/images/keycloak_clientid_clientid.png)
+![keycloak_clientsecret](docs/images/keycloak_clientid_clientsecret.png)
 
 ## start strapi
 ```
