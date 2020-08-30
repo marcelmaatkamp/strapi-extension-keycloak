@@ -36,5 +36,22 @@ services:
   ports:
    - 1337:1337
 
+ strapi:
+  build:
+   context: .
+  image: strapi/strapi:3.1-alpine-keycloak
+  environment:
+   - DATABASE_CLIENT=postgres
+   - DATABASE_HOST=postgres
+   - DATABASE_PORT=5432
+   - DATABASE_NAME=keycloak
+   - DATABASE_USERNAME=keycloak
+   - DATABASE_PASSWORD=password
+#  - DATABASE_SCHEMA=strapi
+  ports:
+   - 1337:1337
+# volumes:
+#  - strapi:/srv/app
+
 volumes:
  postgres:  
