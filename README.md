@@ -22,10 +22,10 @@ Goto http://localhost:8080
 
 | what | image | 
 | -- | -- | 
-| login | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_login.png" width="200" height="200"/> |
-| create client_id | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_create.png" width="200" height="200"/> |
-| set flow | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientid.png" width="200" height="200"/> |
-| copy client_secret | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientsecret.png" width="200" height="200"/> |
+| login | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_login.png" width="400" /> |
+| create client_id | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_create.png" width="400" /> |
+| set flow | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientid.png" width="400" /> |
+| copy client_secret | <img src="https://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientsecret.png" width="400" /> |
 
 ## start strapi
 ```
