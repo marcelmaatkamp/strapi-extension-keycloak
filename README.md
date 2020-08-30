@@ -19,11 +19,10 @@ start keycloak and configure client_id and client_secret
 $ docker-compose up -d keycloak
 ```
 Goto http://localhost:8080
-
-![keycloak_login](docs/images/keycloak_login.png)
-![keycloak_create](docs/images/keycloak_clientid_create.png)
-![keycloak_clientid](docs/images/keycloak_clientid_clientid.png)
-![keycloak_clientsecret](docs/images/keycloak_clientid_clientsecret.png)
+<img src="ttps://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_login.png" width="100" height="100"/>
+<img src="ttps://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_create.png" width="100" height="100"/>
+<img src="ttps://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientid.png" width="100" height="100"/>
+<img src="ttps://github.com/marcelmaatkamp/strapi-extension-keycloak/raw/master/docs/images/keycloak_clientid_clientsecret.png" width="100" height="100"/>
 
 ## start strapi
 ```
